@@ -29,6 +29,7 @@
 > Por cultura general, sabemos que el área de un rectángulo se calcula multiplicando su base por su altura; el área de un triángulo rectángulo se calcula multiplicando su base por su altura, y luego dividiendo el resultado entre dos; finalmente, el área de un cuadrado se calcula elevando al cuadrado la medida de uno de sus lados.
 > 
 > La parte interesante de este problema es determinar el mínimo número de datos que hay que preguntar.
+> ![Poligono](https://github.com/FundComp-C-Oct23-Feb24/TallerGrupal03/blob/main/Algoritmo-9/Figura%20del%20Poligono.png?raw=true)
 
 ## B. Dominios de tipos de datos
 * Leer cada problemática y generar el dominio.
