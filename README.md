@@ -4,7 +4,7 @@
 
 * En el taller Nro. 3. de la materia de Fundamentos de computación, Ud. resolvió con su análisis, diseño (algoritmo), y flujograma los siguientes planteamientos. El objetivo a continuación es codificar estos algoritmos con el Lenguaje de programación de alto nivel: JAVA. 
 * Para cada ejercicio genere una clase independiente pero dentro del mismo proyecto Java. 
-* Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depurado de prograbas. 
+* Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depurado de programas. 
 
 ### Listado de problemáticas
 * Algoritmo-1
