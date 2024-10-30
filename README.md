@@ -2,9 +2,10 @@
 
 ## Construcción de programas básicos
 
-* En el taller Nro. 3. de la materia de Fundamentos de computación, Ud. resolvió con su análisis, diseño (algoritmo), y flujograma los siguientes planteamientos. El objetivo a continuación es codificar estos algoritmos con el Lenguaje de programación de alto nivel: JAVA. 
-* Para cada ejercicio genere una clase independiente pero dentro del mismo proyecto Java. 
-* Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depurado de programas. 
+* En la materia de Fundamentos computacionales, Ud. resolvió con su análisis, diseño (algoritmo) y flujograma, el planteamiento de algunos problemas. El objetivo a continuación es codificar similares algoritmos pero en el Lenguaje de programación de alto nivel: JAVA. 
+* Para cada ejercicio genere una clase independiente pero dentro del mismo proyecto Java, con el fin de facilitar la revisión al docente. 
+* Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depuración de programas. 
+* Al final como parte de códificación (en comentario /*** ), copiar y pegar los resultados obtenidos de la consola, evidenciando el funcionamiento de su solución. 
 
 ### Listado de problemáticas
 * Algoritmo-1
@@ -29,7 +30,7 @@
 > Por cultura general, sabemos que el área de un rectángulo se calcula multiplicando su base por su altura; el área de un triángulo rectángulo se calcula multiplicando su base por su altura, y luego dividiendo el resultado entre dos; finalmente, el área de un cuadrado se calcula elevando al cuadrado la medida de uno de sus lados.
 > 
 > La parte interesante de este problema es determinar el mínimo número de datos que hay que preguntar.
-> ![Poligono](https://github.com/FundComp-C-Oct23-Feb24/TallerGrupal03/blob/main/Algoritmo-9/Figura%20del%20Poligono.png?raw=true)
+> 
 
 
 
