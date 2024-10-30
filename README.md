@@ -30,7 +30,7 @@
 > Por cultura general, sabemos que el área de un rectángulo se calcula multiplicando su base por su altura; el área de un triángulo rectángulo se calcula multiplicando su base por su altura, y luego dividiendo el resultado entre dos; finalmente, el área de un cuadrado se calcula elevando al cuadrado la medida de uno de sus lados.
 > 
 > La parte interesante de este problema es determinar el mínimo número de datos que hay que preguntar.
-> 
+> <span>![</span><span>POLIGONO</span><span>]</span><span>(</span><span>[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://github.com/IntroProg-C-OF25/APEB1-Taller04/blob/main/Img/Poligono.png)</span><span>)</span>
 
 
 
