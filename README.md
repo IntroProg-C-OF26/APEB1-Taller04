@@ -33,4 +33,4 @@
 > [Poligono](https://github.com/IntroProg-C-OF25/APEB1-Taller04/blob/main/Img/Poligono.png)
 
 
-**éxitos en el desarrollo de la actividad**
+**Éxitos en el desarrollo de la actividad**
