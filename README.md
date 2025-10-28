@@ -2,10 +2,10 @@
 
 ## Construcción de programas básicos
 
-* En su asignatura de ***Fundamentos computacionales***_*, Ud. resolvió (análisis, diseño de algoritmos, flujograma, etc.), algunos problemas. El objetivo a continuación es codificar similares algoritmos pero en el lenguaje de programación de alto nivel: JAVA. 
-* Para cada ejercicio genere una clase java independiente pero dentro del mismo proyecto Java, con el fin de facilitar la revisión al docente. 
+* En su asignatura de ***Fundamentos computacionales***, resolvió *(análisis, diseño de algoritmos, flujograma, etc.)*, de algunos problemas. El objetivo a continuación es codificar similares algoritmos pero en el lenguaje de programación de alto nivel **JAVA**. 
+* Para cada ejercicio genere una clase java independiente pero dentro del mismo proyecto java, con el fin de facilitar la revisión al docente. 
 * Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depuración de programas. 
-* Desde el presente taller documentamos las soluciones con dos bloques adicionales: ***(1.-) Documentación del problema***, y ***(2.-) Evicencia del funcionamiento e resultados***. Para ello al inicio y final como parte de codificación (en comentario /*** ), copiar y pegar el enunciado del problema, y al final los resultados obtenidos de la consola. Ejemplo: 
+* Desde el presente taller documentamos las soluciones con dos bloques adicionales: ***(1.-) Documentación del problema***, y ***(2.-) Evicencia del funcionamiento e resultados***. Para ello al inicio y final como parte de la codificación (en comentario /*** ), copiar y pegar el enunciado del problema, y al final los resultados obtenidos de la consola. Ejemplo: 
 
 ```java
 /**
@@ -14,7 +14,7 @@
  * @version 1.0
  */
 public class Ejercicio01 {
-    
+    //AQUÍ AGREGUE TODO SU CÓDIGO...
 }
 /***
  * EVIDENCIA DEL RUN:
@@ -58,6 +58,16 @@ public class Ejercicio01 {
 > Se debe generar un algoritmo que permite calcular y mostrar el valor total a pagar mensual de servicios digitales de una persona. Los servicios digitales son: netflix, youtube premium, dropbox, spotify. Si la persona es menor a 30 años se descuenta el 20% del total mensual.
 
 ### Ejercicio09
+---
+> Desarrolle una solución que determine el estado académico de una persona estudiante en una asignatura universitaria a partir de una calificación de evaluación continua, una calificación de examen final y un porcentaje de asistencia. La regla institucional establece que: 
+
+- La asistencia mínima debe alcanzarse para ser evaluado
+- Existe una nota mínima en el examen final, y 
+- La nota final se calcula combinando evaluación continua y examen final. 
+
+La salida debe indicar “Aprobado”, “Supletorio” o “Reprobado”, y mostrar la nota final redondeada a un decimal.
+
+### Ejercicio10
 ---
 > El programa debe calcular el área del polígono. La figura se compone de un cuadrado perfecto (A), tres triángulos rectángulos iguales (B, C, E), cuya base mide lo mismo que uno de los lados del cuadrado, y un rectángulo cuyo ancho mide lo mismo que uno de los lados del cuadrado, mientras que la altura mide lo mismo que la altura de los triángulos. Se pide que haga un programa que calcule el área total.
 > 
