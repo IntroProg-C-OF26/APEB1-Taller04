@@ -7,10 +7,9 @@
 * Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depuración de programas. 
 * Desde el presente taller documentamos las soluciones con dos bloques adicionales: ***(1.-) Documentación del problema***, y ***(2.-) Evicencia del funcionamiento e resultados***. Para ello al inicio y final como parte de codificación (en comentario /*** ), copiar y pegar el enunciado del problema, y al final los resultados obtenidos de la consola. Ejemplo: 
 
-`
-/**
- * Ejercicio 01: "Texto del ejercicio/problema...."
- * @author NombreAutor
+`/**`
+ `* Ejercicio 01: "Texto del ejercicio/problema...."`
+ `* @author NombreAutor`
  * @version 1.0
  */
 public class Ejercicio01 {
