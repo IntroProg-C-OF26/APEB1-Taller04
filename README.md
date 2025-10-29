@@ -75,7 +75,7 @@ El programa debe calcular el área del polígono. La figura se compone de un cua
  
 Por cultura general, sabemos que el área de un rectángulo se calcula multiplicando su base por su altura; el área de un triángulo rectángulo se calcula multiplicando su base por su altura, y luego dividiendo el resultado entre dos; finalmente, el área de un cuadrado se calcula elevando al cuadrado la medida de uno de sus lados.
 
-***La parte interesante de este problema es determinar el mínimo número de datos que hay que preguntar.** [Polígono](./Img/Poligono.png)
+***La parte interesante de este problema es determinar el mínimo número de datos que hay que preguntar.*** [Polígono](./Img/Poligono.png)
 
 
 
