@@ -5,7 +5,7 @@
 * En su asignatura ***Fundamentos computacionales***, resolvió *(análisis, diseño de algoritmos, flujograma, prueba de escritorio, etc.)* algunos problemas. El objetivo a continuación es codificar similares algoritmos, pero en el lenguaje de programación de alto nivel **JAVA**. 
 * Para cada ejercicio cree una clase java independiente pero dentro del mismo proyecto ***Java Aplication*** (sin paquetes), con el fin de facilitar la revisión al docente. 
 * Verifique que sus soluciones son correctas con las técnicas de compilación, ejecución y depuración de programas. 
-* Desde el presente taller, documentamos las soluciones con dos bloques adicionales: (1.-) ***Documentación del problema***, y (2.-) ***Evidencia del funcionamiento e resultados***. Para ello, al inicio y final como parte de la codificación (en comentarios /*** ), copiar y pegar el enunciado del problema, y al final, los resultados obtenidos de consola **RUN**. Ejemplo: 
+* Desde el presente taller, documentamos las soluciones con dos bloques adicionales: (1.-) ***Documentación del problema***, y (2.-) ***Evidencia del funcionamiento y resultados***. Para ello, al inicio y final como parte de la codificación (en comentarios /*** ), copiar y pegar el enunciado del problema, y al final, los resultados obtenidos de consola **RUN**. Ejemplo: 
 
 ```java
 /**
